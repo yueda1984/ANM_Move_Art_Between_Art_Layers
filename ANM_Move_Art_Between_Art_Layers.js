@@ -57,7 +57,7 @@
 	Also thanks for Liza and Toon Boom for managing the amazing Discord channels!
 */
 
-var scriptVer = "1.8";	
+var scriptVer = "1.81";	
 
 
 function ANM_Art_Layer_Wizard()
