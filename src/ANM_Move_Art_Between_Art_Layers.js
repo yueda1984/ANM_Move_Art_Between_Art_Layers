@@ -21,9 +21,9 @@
 	2) Locate to your user scripts folder (a hidden folder):
 	   https://docs.toonboom.com/help/harmony-17/premium/scripting/import-script.html	
 	   
-	3) Add all unzipped files (*.js, *.ui, and script-icons folder) directly to the folder above.
-	4) Add ANM_Art_Layer_Wizard on any toolbar.
-	5) Optinally, you can add shortcut buttons of each functions on any toolbar:
+	3) There is a folder named "src" inside the zip file. Copy all its contents directly to the folder above.
+	4) In Harmony, add ANM_Art_Layer_Wizard to any toolbar.
+	5) Optinally, you can add shortcut buttons of each functions to any toolbar:
 	
 			ANM_Swap_Art, ANM_Merge_Art, ANM_Merge_All_Art, ANM_Duplicate_Art, ANM_Replace_Art, ANM_Clear_Art
 
